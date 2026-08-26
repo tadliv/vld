@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "regions": ["yul1"],
+  "regions": ["lhr1"],
   "builds": [
     {
       "src": "index.js",
